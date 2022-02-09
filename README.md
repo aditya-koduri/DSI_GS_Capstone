@@ -1,2 +1,2 @@
 # DSI_GS_Capstone
-Code repository for DSI Capstone with Goldman Sach
+Code repository for DSI Capstone with Goldman Sachs
